@@ -12,27 +12,30 @@ favicon: /favicon.ico
 # comments
 comments:
   post: true
-  about: true
+  about: false
 
 # Analytics
 ## Baidu Analytics
-baidu_analytics: 9e0cbea7d3319c6c94c71dfb93c151b8
+# baidu_analytics: 9e0cbea7d3319c6c94c71dfb93c151b8
 ## Google Analytics
-google_analytics: UA-74273646-1
+# google_analytics: UA-74273646-1
 
 # Comments
 ## Duoshuo
 # duoshuo_shortname: ahonn
 ## Disqus
-disqus_shortname: ahonn
+disqus_shortname: maquannene
+
+per_page: 10    # 首页文章数
+pagination_dir: page
 
 # Social links
 social:
-  email: mailto:ahonn95@outlook.com
+  email: mailto:maquan@wps.cn
   # stack-overflow:
   # twitter:
   # facebook:
-  github: https://github.com/ahonn
-  weibo: http://weibo.com/ahonn
-  zhihu: https://www.zhihu.com/people/ahonn
+  github: https://github.com/maquannene
+  weibo: http://weibo.com/1697721754
+  zhihu: https://www.zhihu.com/people/qlulululu
   rss: /atom.xml
